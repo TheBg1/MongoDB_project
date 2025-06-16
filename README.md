@@ -43,7 +43,7 @@
 
 1. Клонирайте хранилището:
    ```bash
-   git clone https://github.com/TheBG1/MongoDB_project.git
+   git clone https://github.com/TheBg1/MongoDB_project.git
    cd MongoDB_project
    ```
 
