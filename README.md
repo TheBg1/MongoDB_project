@@ -43,8 +43,8 @@
 
 1. Клонирайте хранилището:
    ```bash
-   git clone https://github.com/yourusername/online-bookstore.git
-   cd online-bookstore
+   git clone https://github.com/TheBG1/MongoDB_project.git
+   cd MongoDB_project
    ```
 
 2. Стартирайте MongoDB сървъра (ако не работи).
