@@ -1,3 +1,4 @@
+use bookstore;
 // Вмъкване на книги
 db.books.insertMany([
   {
